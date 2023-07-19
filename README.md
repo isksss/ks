@@ -7,6 +7,12 @@ Anyone who confuses ls and ks is garbage! ! !
 
 ## Installation
 
+### brew
+
+```bash
+brew install isksss/tap/ks
+```
+
 ### Go
 
 ```bash
